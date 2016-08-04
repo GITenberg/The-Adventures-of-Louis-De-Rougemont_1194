@@ -1,0 +1,27 @@
+_repo: The-Adventures-of-Louis-De-Rougemont_1194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rougemont, Louis de
+    alias: De Rougemont, Louis
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '548'
+    url: http://www.gutenberg.org/2009/agents/548
+    wikipedia: http://en.wikipedia.org/wiki/Louis_de_Rougemont
+description: ''
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Australia -- Fiction'
+- GITenberg
+title: The Adventures of Louis de Rougemont
+url: http://www.gutenberg.org/ebooks/1194
